@@ -103,7 +103,7 @@ margin: 2px;
     .flexEight {
         display: flex;
         height: 400px;
-        width: 300;
+        width: 300px;
         background-color:  #eeeeee;
     }
     .flexEight .one {
